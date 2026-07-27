@@ -130,7 +130,7 @@
     <ClCompile Include="소스.c" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\Week1\Week1\block.h" />
+    <ClInclude Include="block.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
